@@ -10,6 +10,7 @@ Linux Course
 * https://ryanstutorials.net/linuxtutorial/#outline
 * https://linux.die.net/man/
 * https://linuxsurvival.com/linux-tutorial-introduction/
+* https://www.youtube.com/watch?v=wBp0Rb-ZJak
 
 # Periodicals
 
