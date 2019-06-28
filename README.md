@@ -8,7 +8,8 @@ Linux Course
 
 * https://linuxjourney.com
 * https://ryanstutorials.net/linuxtutorial/#outline
-
+* https://linux.die.net/man/
+* https://linuxsurvival.com/linux-tutorial-introduction/
 
 # Periodicals
 
